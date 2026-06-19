@@ -1,0 +1,118 @@
+Institution,Name,Sanctioned,Filled,Vacant,vacancy %,Date of receipt,Changes/additions
+IIT,"Indian Institute of Technology (IIT), Kharagpur",1600,776,824,51.500,27/01/2026,
+IIT,"Indian Institute of Technology (Indian School of Mines), Dhanbad",781,399,382,48.912,--,
+IIT,"Indian Institute of Technology (IIT), Guwahati",824,476,348,42.233,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Roorkee",939,560,379,40.362,--,"Changed sanctioned, filled: 560,181 to 939,560"
+IIT,"Indian Institute of Technology (IIT), Mandi",323,193,130,40.248,--,
+IIT,"Indian Institute of Technology (IIT), Kanpur",957,581,376,39.289,27/01/2026,Changed filled and vacant
+IIT,"Indian Institute of Technology (Banaras Hindu University), Varanasi",608,374,234,38.487,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Delhi",1093,676,417,38.152,27/01/2026,document mentiones vacancy% as 37.88 as on 31/12/2025
+IIT,"Indian Institute of Technology (IIT), Bombay",1225,760,465,37.959,27/01/2026,could not confirm sanctioned and vacant data
+IIT,"Indian Institute of Technology (IIT), Bhubaneshwar",300,213,87,29.000,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Gandhi Nagar",190,136,54,28.421,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Hyderabad",480,346,134,27.917,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Jodhpur",406,304,102,25.123,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Jammu",180,143,37,20.556,--,
+IIT,"Indian Institute of Technology (IIT), Indore",330,230,67,20.303,12/02/2026,Changed filled from 263 to 230
+IIT,"Indian Institute of Technology (IIT), Tirupati",160,,25,15.625,27/01/2026,Added vacancy
+IIT,"Indian Institute of Technology (IIT), Ropar",230,197,33,14.348,--,
+IIT,Indian Institute of Technology (IIT) Dharwad,93,92,12,12.903,27/01/2026,"changed sanctioned: 82 to 93
+flexi-cadre and so not ascertained"
+IIT,"Indian Institute of Technology (IIT), Bhilai",147,91,14,9.524,--,Changed vacant: 56 to 14
+IIT,"Indian Institute of Technology (IIT), Palakkad",153,144,9,5.882,27/01/2026,
+IIT,"Indian Institute of Technology (IIT), Goa",,,,,,
+IIT,"Indian Institute of Technology (IIT), Madras",,,,,,
+IIT,"Indian Institute of Technology (IIT), Patna",,165,,,27/01/2026,Added filled
+IIM,"Indian Institute of Management (IIM), Mumbai",133,53,77,57.895,,
+IIM,"Indian Institute of Management (IIM), Jammu",102,45,57,55.882,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Amritsar",70,35,35,50.000,28/01/2026,
+IIM,"Rajiv Gandhi Indian Institute of Management, (RGIIM), Shillong",69,35,34,49.275,,
+IIM,"Indian Institute of Management (IIM), Vishakhapatnam",88,48,40,45.455,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Nagpur",60,35,25,41.667,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Raipur",80,48,32,40.000,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Tiruchirappalli",94,59,35,37.234,28/01/2026,added filled
+IIM,"Indian Institute of Management (IIM), Sirmour",75,49,26,34.667,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Calcutta",126,85,41,32.540,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Kashipuri",64,45,19,29.688,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Kozhikode",149,113,38,25.503,28/01/2026,"changed data: 111,99,15 to 149,113,38"
+IIM,"Indian Institute of Management (IIM), Sambalpur",69,53,16,23.188,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Indore",150,116,34,22.667,--,
+IIM,"Indian Institute of Management (IIM), Ahmedabad",120,100,20,16.667,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Lucknow",115,97,18,15.652,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Bangalore",120,108,12,10.000,--,
+IIM,"Indian Institute of Management (IIM), Udaipur",60,54,4,6.667,28/01/2026,changed filled: 56 to 54
+IIM,"Indian Institute of Management (IIM), Rohtak",,,,,28/01/2026,
+IIM,"Indian Institute of Management (IIM), Ranchi",,,,,,
+IIM,"Indian Institute of Management (IIM), Bodh Gaya",,,,,,
+NIT,"National Institute of Technology, Andhra Pradesh",187,58,129,68.984,12/02/2026,email
+NIT,"National Institute of Technology, Srinagar",342,145,197,57.602,12/02/2026,
+NIT,"National Institute of Technology, Sikkim",68,38,30,44.118,12/02/2026,added data
+NIT,"National Institute of Technology, Tiruchirapalli",605,358,247,40.826,12/02/2026,
+NIT,"National Institute of Technology, Hamirpur",261,175,86,32.950,12/02/2026,vacancy and sanctioned strength marked as flexible
+NIT,"Motilal Nehru National Institute of Technology, Allahabad",362,244,118,32.597,12/02/2026,
+NIT,"National Institute of Technology, Puducherry",102,69,29,28.431,12/02/2026,"added data, includes flexible and non flexible posts"
+NIT,"Dr. B.R. Ambedkar National Institute of Technology, Jalandhar",382,274,108,28.272,12/02/2026,added data
+NIT,"National Institute of Technology, Kurukshetra",298,219,79,26.510,23/02/2026,
+NIT,"National Institute of Technology, Patna",256,196,60,23.438,12/02/2026,
+NIT,"National Institute of Technology, Surathkal",375,292,83,22.133,12/02/2026,added vacant
+NIT,"Maulana Azad National Institute of Technology, Bhopal",279,219,60,21.505,12/02/2026,"added data
+58 profs and 18 asst profs were not included in reservation roster as they were appointed before implementation of CEI Act"
+NIT,"Sardar Vallabhbhai National Institute of Technology, Surat",296,236,60,20.270,12/02/2026,"redirected to website data as on  30.06.2024
+added data from website: https://www.svnit.ac.in/Data/about/Annual_Report/Annual%20Report%20-%202023-24%20(English).pdf"
+NIT,"National Institute of Technology, Calicut",483,415,68,14.079,12/02/2026,
+NIT,"National Institute of Technology, Warangal",420,375,45,10.714,12/02/2026,"added sanctioned, filled"
+NIT,"National Institute of Technology, Raipur",266,244,22,8.271,12/02/2026,
+NIT,"National Institute of Technology, Durgapur",285,222,,0.000,12/02/2026,vacancy query response: advised to follow institute website
+NIT,"National Institute of Technology, Meghalaya",78,76,,0.000,--,
+NIT,"National Institute of Technology, Delhi",87,,,0.000,15/01/2026,"filled info in IIM delhi website under ""Mandatory Disclosure"" section"
+NIT,"National Institute of Technology, Agartala",,,,,,
+NIT,"Malaviya National Institute of Technology, Jaipur",,,,,12/02/2026,may be provided by establishment section
+NIT,"National Institute of Technology, Jamshedpur",,,,,,
+NIT,"Visvesvaraya National Institute of Technology, Nagpur",,,,,12/02/2026,sent as hard copy
+NIT,"National Institute of Technology, Rourkela",,,,,,
+NIT,"National Institute of Technology, Silchar",,,,,,
+NIT,"National Institute of Technology, Goa",,,,,,
+NIT,"National Institute of Technology, Arunachal Pradesh",,,,,,
+NIT,"National Institute of Technology, Nagaland",,,,,,
+NIT,"National Institute of Technology, Manipur",,,,,,
+NIT,"National Institute of Technology, Mizoram",,,,,,
+NIT,"National Institute of Technology, Uttarakhand",,,,,12/02/2026,redirected to website data
+IISER,"Indian Institute of Science Education and Research (IISER), Berhampur",92,49,43,46.739,09/02/2026,
+IISER,"Indian Institute of Science Education and Research (IISER), Thiruvananthapuram",188,121,67,35.638,09/02/2026,added vacancy
+IISER,"Indian Institute of Science Education and Research (IISER), Bhopal",239,166,73,30.544,09/02/2026,
+IISER,"Indian Institute of Science Education and Research (IISER), Mohali",171,122,49,28.655,--,
+IISER,"Indian Institute of Science Education and Research (IISER), Kolkata",172,128,44,25.581,09/02/2026,changed sanctioned and filled
+IISER,"Indian Institute of Science Education and Research (IISER), Pune",,,,,,
+IISER,"Indian Institute of Science Education and Research (IISER), Tirupati",,67,43,,09/02/2026,added filled
+IIIT,Indian Institute of Information Technology Kalyani,50,13,37,74.000,27/01/2026,
+IIIT,Indian Institute of Information Technology Kota,36,10,26,72.222,27/01/2026,
+IIIT,Indian Institute of Information Technology Bhopal,100,28,72,72.000,27/01/2026,
+IIIT,Indian Institute of Information Technology Allahabad,225,83,142,63.111,29/01/2026,
+IIIT,Indian Institute of Information Technology Ranchi,78,31,47,60.256,27/01/2026,
+IIIT,Indian Institute of Information Technology Una,35,14,21,60.000,,
+IIIT,Indian Institute of Information Technology Vadodara,84,40,44,52.381,21/01/2026,
+IIIT,Indian Institute of Information Technology Surat,42,21,21,50.000,27/01/2026,
+IIIT,Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior,148,77,71,47.973,,
+IIIT,Indian Institute of Information Technology Pune,38,21,17,44.737,27/01/2026,added data
+IIIT,Indian Institute of Information Technology Guwahati,84,50,34,40.476,27/01/2026,added data
+IIIT,Indian Institute of Information Technology Raichur,20,13,7,35.000,27/01/2026,
+IIIT,Indian Institute of Information Technology Tiruchirappalli,24,18,6,25.000,27/01/2026,
+IIIT,Indian Institute of Information Technology Kottayam,68,54,14,20.588,27/01/2026,
+IIIT,Indian Institute of Information Technology Nagpur,53,45,10,18.868,27/01/2026,"added sanctioned, filled"
+IIIT,Indian Institute of Information Technology Chittoor,,,,,,
+IIIT,Indian Institute of Information Technology Design and Manufacturing Kurnool,,,,,,
+IIIT,Indian Institute of Information Technology Lucknow,,,,,,
+IIIT,Indian Institute of Information Technology Manipur,,,,,,
+IIIT,Indian Institute of Information Technology Sonepat,,,,,,
+IIIT,Indian Institute of Information Technology Agartala,,,,,,
+IIIT,Indian Institute of Information Technology Bhagalpur,,,,,,
+IIIT,Indian Institute of Information Technology Dharward,,,,,27/01/2026,
+NITTTR,"National Institutes of Technical Teachers' Training & Research (NITTTR), Bhopal",60,47,13,21.667,07/02/2026,added data
+NITTTR,"National Institutes of Technical Teachers' Training & Research (NITTTR), Kolkata",34,26,7,20.588,07/02/2026,
+NITTTR,"National Institutes of Technical Teachers' Training & Research (NITTTR), Chennai",46,35,11,23.913,07/02/2026,added data
+NITTTR,"National Institutes of Technical Teachers' Training & Research (NITTTR), Chandigarh",64,40,24,37.500,12/02/2026,added data
+IIITDM,"Indian Institute of Information, Technology, Design and Manufacturing, Jabalpur",204,63,142,69.608,27/01/2026,
+IIITDM,"Indian Institute of Information, Technology, Design and Manufacturing, Kancheepuram",113,103,10,8.850,27/01/2026,added data
+IIITDM,"Indian Institute of Information, Technology, Design and Manufacturing, Kurnool",62,52,10,16.129,27/01/2026,
+IIITM,Atal Bihari Vajpayee-Indian Institute of Information Technology and Management (ABV-IIITM),148,77,71,47.973,27/01/2026,changed filled data from 74 to 77
+IIEST,"Indian Institute of Science, Engineering & Technology, Shibpur",303,245,,,12/02/2026,
